@@ -1,0 +1,30 @@
+# Virtual Environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment Variables
+.env
+
+# Streamlit
+.streamlit/
+
+# Vector Database
+data/vector_db/
+*.index
+*.pkl
+
+# Uploads (optional)
+uploads/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
